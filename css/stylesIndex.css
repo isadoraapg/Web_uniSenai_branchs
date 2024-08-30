@@ -1,1 +1,84 @@
 /*styles index*/
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+#pagina-inicial {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#brand {
+  background-color: #c5cecf;
+}
+
+#imagem-barra {
+  display: flex;
+}
+
+.logo-index {
+  border: none;
+  padding: 0;
+}
+
+.barra-menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: #c5cecf;
+  height: 5vh;
+  align-items: center;
+  margin: 0px;
+  margin-top: 0px;
+}
+
+.menu-item {
+  font-family: "Inter", sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+
+
+
+main{
+  background-color: #c5cecf;
+    width: 1000px;
+    height: 700px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #c5cecf;
+    color: black;
+    width: 1000px;
+    height: 50px;
+    bottom: 0px;  
+    text-align: center;
+    font-family: "Inter", sans-serif;
+
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#texto-footer{
+    margin-left: auto;
+    margin-right: auto;
+}
