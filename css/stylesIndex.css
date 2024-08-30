@@ -12,10 +12,14 @@ body {
 
 #brand {
   background-color: #c5cecf;
+  width: 1000px;
+  height: 100px;
+  margin-bottom: 10px;
 }
 
 #imagem-barra {
   display: flex;
+  
 }
 
 .logo-index {
@@ -27,10 +31,10 @@ body {
   display: flex;
   justify-content: space-around;
   background-color: #c5cecf;
-  height: 5vh;
+  height: 50px;
   align-items: center;
-  margin: 0px;
-  margin-top: 0px;
+  margin-top: 5px;
+  
 }
 
 .menu-item {
@@ -41,25 +45,14 @@ body {
   text-decoration: none;
 }
 
-
-
 main{
   background-color: #c5cecf;
-    width: 1000px;
-    height: 700px;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
+  width: 1000px;
+  height: 667px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-
-
-
-
-
-
-
-
 
 footer {
     background-color: #c5cecf;
